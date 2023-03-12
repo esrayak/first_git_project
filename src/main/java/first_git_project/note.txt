@@ -6,9 +6,9 @@
   3. Create a FIRST COMMIT for the First time
   ONLY ONCE    *git init
   EVERY TIME    *git add .
-  EVERY TIME    *git commit -m "first commit"
-  ONLY ONCE    *git branch -M main
-  ONLY ONCE    *git remote add origin https://github.com/abayramus/first_git_project.git
+  EVERY TIME    *git commit -m "first commit" create new project
+  ONLY ONCE    *git branch -M  creating a new branch called main
+  ONLY ONCE    *git remote add origin https://github.com/abayramus/first_git_project.git --->connects local project(git) to remote repository(github)
   ONLY ONCE    *git push -u origin main
       *****Then your code should be pushed to github. REFRESH YOUR PAGE TO SEE THE CODE
   NOTE: git status    ->   This is our friend. This can be used anytime to see the progress
